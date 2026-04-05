@@ -9,14 +9,14 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-EF5D39?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍%20Barranquilla-Colombia-000000?style=for-the-badge)
 
-</div>
-
 <!-- Animación de escritura -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=18&duration=3000&pause=1000&color=EF5D39&center=true&vCenter=true&width=500&height=50&lines=Custom+WordPress+Solutions;Full-Stack+Development;API+Integrations;Performance+Optimization;Scalable+Web+Apps" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=18&duration=3000&pause=1000&color=EF5D39&center=true&vCenter=true&width=500&height=50&lines=Custom+WordPress+Solutions;Full-Stack+Development;API+Integrations;Performance+Optimization;Scalable+Web+Apps" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=18&duration=3000&pause=1000&color=EF5D39&center=true&vCenter=true&width=500&height=50&lines=Custom+WordPress+Solutions;Full-Stack+Development;API+Integrations;Performance+Optimization;Scalable+Web+Apps" />
 </picture>
+
+</div>
 
 ---
 
@@ -106,60 +106,67 @@ Specializing in **custom WordPress solutions**, **API integrations**, and **scal
 
 ### 💻 Backend Technologies
 <p>
-  <a href="#" title="PHP">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <a href="#">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="animation: bounce 2s ease-in-out infinite; display: inline-block;" />
   </a>
-  <a href="#" title="Python">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="animation: bounce 2s ease-in-out 0.1s infinite; display: inline-block;" />
   </a>
-  <a href="#" title=".NET">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <a href="#">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" style="animation: bounce 2s ease-in-out 0.2s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="WordPress">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <a href="#">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="animation: bounce 2s ease-in-out 0.3s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="WooCommerce">
-    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <a href="#">
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" style="animation: bounce 2s ease-in-out 0.4s infinite; display: inline-block;" />
   </a>
 </p>
 
 ### 🎨 Frontend Technologies
 <p>
-  <a href="#" title="React">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <a href="#">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="animation: bounce 2s ease-in-out infinite; display: inline-block;" />
   </a>
-  <a href="#" title="JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <a href="#">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="animation: bounce 2s ease-in-out 0.1s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="TypeScript">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <a href="#">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="animation: bounce 2s ease-in-out 0.2s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="HTML5">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <a href="#">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="animation: bounce 2s ease-in-out 0.3s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="CSS3">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <a href="#">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="animation: bounce 2s ease-in-out 0.4s infinite; display: inline-block;" />
   </a>
 </p>
 
 ### 🗄️ Databases & Tools
 <p>
-  <a href="#" title="MySQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <a href="#">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="animation: bounce 2s ease-in-out infinite; display: inline-block;" />
   </a>
-  <a href="#" title="PostgreSQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <a href="#">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="animation: bounce 2s ease-in-out 0.1s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="Git">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="animation: bounce 2s ease-in-out 0.2s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="Linux">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="animation: bounce 2s ease-in-out 0.3s infinite; display: inline-block;" />
   </a>
-  <a href="#" title="REST API">
-    <img src="https://img.shields.io/badge/REST%20API-EF5D39?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
+  <a href="#">
+    <img src="https://img.shields.io/badge/REST%20API-EF5D39?style=for-the-badge&logo=api&logoColor=white" alt="REST API" style="animation: bounce 2s ease-in-out 0.4s infinite; display: inline-block;" />
   </a>
 </p>
+
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50% { transform: translateY(-10px) scale(1.05); }
+  }
+</style>
 
 </div>
 
@@ -177,7 +184,7 @@ Specializing in **custom WordPress solutions**, **API integrations**, and **scal
 - 🚀 Handles 500 concurrent orders
 - 🛡️ Secure REST API with authentication
 
-**Result:** 90% reduction in manual work • 50% faster fulfillment
+**Result:** 90% reduction in manual work 📈 50% faster fulfillment
 
 ---
 
@@ -192,7 +199,7 @@ Specializing in **custom WordPress solutions**, **API integrations**, and **scal
 - 📈 Performance tracking & analytics
 - 🔄 Multi-store synchronization
 
-**Result:** 90% less manual checking • 50% faster fulfillment
+**Result:** 90% less manual checking 📈 50% faster fulfillment
 
 ---
 
@@ -207,7 +214,7 @@ Specializing in **custom WordPress solutions**, **API integrations**, and **scal
 - 📈 20% increase in organic traffic
 - 🔒 Security-focused implementation
 
-**Result:** 50% more patient inquiries • Higher SEO rankings
+**Result:** 50% more patient inquiries 📈 Higher SEO rankings
 
 ---
 
@@ -236,23 +243,11 @@ Specializing in **custom WordPress solutions**, **API integrations**, and **scal
 
 ### Let's Connect! 🌐
 
-<p>
-  <a href="https://linkedin.com/in/jhonatan-carrillo-mejia-210b57223" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://jhonydev.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-EF5D39?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:jhonatancarrillo778@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/573507185265" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/CarrilloJhonatan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonatan-carrillo-mejia-210b57223)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EF5D39?style=for-the-badge&logo=web&logoColor=white)](https://jhonydev.pro)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatancarrillo778@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573507185265)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarrilloJhonatan)
 
 </div>
 
